@@ -1,0 +1,2 @@
+# freekas
+Kaspa Notes
