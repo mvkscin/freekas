@@ -1,2 +1,8 @@
 # freekas
+
 Kaspa Notes
+
+
+
+
+
